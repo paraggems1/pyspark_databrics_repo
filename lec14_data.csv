@@ -1,0 +1,12 @@
+emp_data = [
+(1,'manish',26,20000,'india','IT'),
+(2,'rahul',None,40000,'germany','engineering'),
+(3,'pawan',12,60000,'india','sales'),
+(4,'roshini',44,None,'uk','engineering'),
+(5,'raushan',35,70000,'india','sales'),
+(6,None,29,200000,'uk','IT'),
+(7,'adam',37,65000,'us','IT'),
+(8,'chris',16,40000,'us','sales'),
+(None,None,None,None,None,None),
+(7,'adam',37,65000,'us','IT')
+]
